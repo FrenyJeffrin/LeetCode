@@ -1,5 +1,6 @@
 """The function def differenceofSum(n. m) accepts two integers n, m as arguments Find the sum of all numbers in range from 1 to m(both inclusive) that are not divisible by n. 
 Return difference between sum of integers not divisible by n with sum of numbers divisible by n."""
+
 n=int(input())
 m=int(input())
 sum1=0
